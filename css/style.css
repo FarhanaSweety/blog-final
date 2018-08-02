@@ -1,0 +1,245 @@
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 0.9);
+    background: #1a54e7;
+    width: 30%;
+    height: 56px;
+    text-align: right;
+    margin: 0;
+    padding-right: 10px;
+}
+.navbar{
+	padding:0;
+}
+.bg-light { 
+    padding: 0;
+    height:56px;
+}
+
+.navbar-expand-lg .navbar-collapse { 
+   
+}
+
+.banner-section{
+	background: url(../images/baner.png);
+	min-height: 100vh;
+	background-size: cover;
+	position: relative;
+}
+.row{
+	align-items: center;
+    
+}
+.vh-100{
+	height: 100vh;
+}
+
+.btn-custom{
+	background: #1a54e7;
+    color: white;
+    border-radius: 0;
+    position: absolute;
+    left: 300px;
+    bottom: -50px;
+    transform: translatey(-90px);
+}
+.about-section{
+	overflow: hidden;
+	background:#edf1f5;}
+
+
+
+.about-section img{
+	position: relative;
+	max-width: 100%;
+}
+
+
+.btn-customa{
+	background: #d90445;
+    border-radius: 0;
+    color: white;    
+    position: absolute;
+    left: 15px;
+    transform: translatey(-60px);
+  
+}
+
+.about-imageb{
+
+}
+.btn-customb{
+	position: absolute;
+    background: black;
+    border-radius: 0;
+    color: white;
+    left: 15px;
+    transform: translatey(-60px);
+}
+
+.proin-section{
+	background: url(../images/imagec.jpg);
+	min-height: 50vh;
+	background-size: cover;
+	position: relative;
+}
+
+.row{
+	align-items: center;
+	text-align: center;
+}
+.vh-50{
+	height: 50vh;
+}
+
+.btn-customc{
+	background: #d90445;
+    border-radius: 0;
+    color: white;    
+    position: absolute;
+    left:0;
+    bottom: 0;
+    transform: translatey(-20px);
+  
+  
+}
+
+.portfolio-secton{
+	
+}
+.portfolio-secton img{
+	max-width: 100%;
+	overflow: hidden;
+
+}
+.row{}
+
+.boxd{
+	position: relative;
+}
+.btn-customd{
+	position: absolute;
+    background: #58b600;;
+    border-radius: 0;
+    color: white;
+    left: 4px;
+    transform: translatey(-60px);
+}
+
+.boxe{
+	position: relative;
+}
+.btn-custome{
+	position: absolute;
+    background: #1a54e7;
+    border-radius: 0;
+    color: white;
+    left: 4px;
+    transform: translatey(-60px);
+}
+
+.boxf{
+	position: relative;
+}
+.btn-customf{
+	position: absolute;
+    background: #000000;
+    border-radius: 0;
+    color: white;
+    left: 4px;
+    transform: translatey(-60px);
+}
+
+.boxg{
+	position: relative;
+}
+.btn-customg{
+	position: absolute;
+    background: #d90445;
+    border-radius: 0;
+    color: white;
+    left: 4px;
+    transform: translatey(-60px);
+}
+
+.boxh{
+	position: relative;
+}
+.btn-customh{
+	position: absolute;
+    background: #d90445;
+    border-radius: 0;
+    color: white;
+    left: 4px;
+    transform: translatey(-60px);
+}
+
+.boxi{
+	position: relative;
+}
+.btn-customi{
+	position: absolute;
+    background: #8200b2;
+    border-radius: 0;
+    color: white;
+    left: 4px;
+    transform: translatey(-60px);
+}
+
+.about-section{
+	overflow: hidden;
+	background:#edf1f5;}
+
+
+
+.about-section img{
+	position: relative;
+	max-width: 100%;
+}
+
+
+.btn-customa{
+	background: #d90445;
+    border-radius: 0;
+    color: white;    
+    position: absolute;
+    left: 15px;
+    transform: translatey(-60px);
+  
+}
+
+.about-imageb{
+
+}
+.btn-customb{
+	position: absolute;
+    background: black;
+    border-radius: 0;
+    color: white;
+    left: 15px;
+    transform: translatey(-60px);
+}
+
+.footer-section{
+	background: url(../images/ftb.jpg);
+    min-height:30vh;
+	background-size: cover;
+}
+
+.row{}
+.footer-content{}
+.footer-content h3{
+	color: white
+}
+.footer-content p{
+	color: #9ba1a7;
+}
+.badge-pill{
+	 padding-left: 200px;
+     color: #1a54e6;
+}
+
+.footer-bottom{
+	padding-bottom: 80px;
+}
+
+.footer-bottom p{}
